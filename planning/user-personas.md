@@ -1,6 +1,6 @@
 # User Personas
 
-# Employers & Recruiters
+## Employers & Recruiters
 
 **Bio:** Mark, Tech Recruiter at a Software Company
 
@@ -14,7 +14,7 @@ if she’s a good fit for open positions.
 developer with strong UI/UX skills for a startup. He lands on Asmaa's portfolio
 website and quickly scans her skills, experience, and projects.
 
-# Clients (Startups & Small Businesses)
+## Clients (Startups & Small Businesses)
 
 **Bio:** Sarah, a Startup Founder
 
@@ -28,7 +28,7 @@ website. She searches for front-end developers and finds Asmaa’s portfolio. Sh
 explores Asmaa’s past projects and reads about her UI/UX expertise. Impressed,
 she reaches out through instagram that linked on the contact me section.
 
-# Fellow Developers & Collaborators
+## Fellow Developers & Collaborators
 
 **Bio:** Ahmed, Full-Stack Developer
 
