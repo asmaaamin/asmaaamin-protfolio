@@ -2,16 +2,25 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+Asmaa's portfolio website follows a minimalist and lightweight design approach,
+focusing on simplicity, elegance, and usability. The primary color is white,
+ensuring a clean and professional look, complemented by a feminine secondary
+color for accentuation. The typography will be modern and easy to read, aligning
+with the minimalist aesthetic.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+Key design decisions include:
 
----
+Minimalist and light theme to maintain a professional and modern look.
+
+Feminine secondary color to add personality and warmth.
+
+Clean typography to enhance readability.
+
+Well-structured sections to make information easily accessible.
+
+Contact section with social media links and email for easy networking.
 
 ## Wireframe(s)
 
 > Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+> ![wireframe](../public/assets/wireframe.jpg)
